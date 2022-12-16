@@ -1,2 +1,8 @@
 # app-dev
-My first repository
+term
+: My Favorite series peaky blinder
+: base on real story
+: Crime
+: Gangster
+: Friendship
+
